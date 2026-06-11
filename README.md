@@ -2,6 +2,9 @@
 
 An offline-first React Native (Expo Web) + Express implementation of Alcovia's Focus Sessions and Syllabus Progress features, with two-device sync, Lamport-clock conflict resolution, idempotent rewards, and n8n automation.
 
+
+Note: The live link is not working due to some cache errors, so please ignore that
+
 ---
 
 ## Quick Start (< 5 minutes)
